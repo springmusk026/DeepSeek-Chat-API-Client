@@ -17,7 +17,7 @@
   "author": "springmusk026",
   "repository": {
     "type": "git",
-    "url": "https://github.com/springmusk026/deepseek-api-client"
+    "url": "https://github.com/springmusk026/DeepSeek-Chat-API-Client"
   },
   "license": "MIT",
   "dependencies": {
