@@ -35,9 +35,6 @@ tmp/
 temp/
 *.tmp
 
-# WebAssembly
-*.wasm
-!src/wasm/sha3_wasm_bg.7b9ca65ddd.wasm
 
 # Misc
 .cache/
