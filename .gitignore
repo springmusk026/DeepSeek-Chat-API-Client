@@ -4,7 +4,6 @@ package-lock.json
 
 # Environment
 .env
-.env.*
 
 # IDE/Editor specific
 .vscode/
