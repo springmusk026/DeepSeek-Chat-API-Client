@@ -33,7 +33,7 @@ Visit [MCPCore](https://www.mcpcore.xyz) - Your one-stop platform for AI service
 1. **Clone and Install**
    ```bash
    # Clone the repository
-   git clone https://github.com/springmusk026/deepseek-api-client.git
+   git clone https://github.com/springmusk026/DeepSeek-Chat-API-Client.git
 
    # Navigate to the project directory
    cd deepseek-api-client
