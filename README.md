@@ -36,7 +36,7 @@ Visit [MCPCore](https://www.mcpcore.xyz) - Your one-stop platform for AI service
    git clone https://github.com/springmusk026/DeepSeek-Chat-API-Client.git
 
    # Navigate to the project directory
-   cd deepseek-api-client
+   cd DeepSeek-Chat-API-Client
 
    # Install dependencies
    npm install
