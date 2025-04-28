@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.*
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+.DS_Store
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Session data
+examples/chat_session.json
+
+# Build output
+dist/
+build/
+out/
+
+# Coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# WebAssembly
+*.wasm
+!src/wasm/sha3_wasm_bg.7b9ca65ddd.wasm
+
+# Misc
+.cache/
+.history/ 
+
+examples/*
+examples/
